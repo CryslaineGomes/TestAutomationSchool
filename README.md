@@ -36,8 +36,9 @@ Para rodar os testes automatizados, utilize o seguinte comando no terminal:
 ```bash
 mvn test
 
-```bash
 ## 📂 Estrutura do Projeto
+
+```bash
 .
 ├── src/
 │   ├── main/
