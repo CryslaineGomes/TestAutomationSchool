@@ -24,8 +24,22 @@ Cada funcionalidade conta com testes para verificar:
 ✅ Mudança de URL ao clicar  
 ✅ Fonte e cor dos botões  
 
+## 🚀 Como Executar os Testes  
+1. Abra o projeto no IntelliJ IDEA.  
+2. Certifique-se de que as dependências do Maven estão instaladas corretamente.  
+3. Execute os testes a partir da classe principal ou via terminal com:  
+
+## 🔧 Como Executar os Testes  
+
+Para rodar os testes automatizados, utilize o seguinte comando no terminal:  
+
+ ```bash
+ mvn test
+
+
 ## 📂 Estrutura do Projeto
-.
+  ```bash
+ .
 ├── src/
 │   ├── main/
 │   │   ├── java/
@@ -39,18 +53,6 @@ Cada funcionalidade conta com testes para verificar:
 ├── pom.xml                           # Configuração do Maven e dependências
 ├── README.md                         # Documentação do projeto
 
-
-## 🚀 Como Executar os Testes  
-1. Abra o projeto no IntelliJ IDEA.  
-2. Certifique-se de que as dependências do Maven estão instaladas corretamente.  
-3. Execute os testes a partir da classe principal ou via terminal com:  
-
-## 🔧 Como Executar os Testes  
-
-Para rodar os testes automatizados, utilize o seguinte comando no terminal:  
-
-```bash
-mvn test
 
 
 
