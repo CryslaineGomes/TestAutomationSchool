@@ -30,9 +30,11 @@ Cada funcionalidade conta com testes para verificar:
 3. Execute os testes a partir da classe principal ou via terminal com:  
    ```sh
    mvn test
-   
-## 📂 Estrutura do Projeto
 
+```md
+## 📂 Estrutura do Projeto  
+
+```bash
 .
 ├── src/
 │   ├── main/
@@ -46,4 +48,5 @@ Cada funcionalidade conta com testes para verificar:
 │   │   │   ├── features/             # Arquivos .feature do Cucumber
 ├── pom.xml                           # Configuração do Maven e dependências
 ├── README.md                         # Documentação do projeto
+
 
