@@ -36,10 +36,8 @@ Para rodar os testes automatizados, utilize o seguinte comando no terminal:
  ```bash
  mvn test
 
-
-## 📂 Estrutura do Projeto
-  ```bash
- .
+📂 Estrutura do Projeto
+.
 ├── src/
 │   ├── main/
 │   │   ├── java/
