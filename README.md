@@ -28,10 +28,13 @@ Cada funcionalidade conta com testes para verificar:
 1. Abra o projeto no IntelliJ IDEA.  
 2. Certifique-se de que as dependências do Maven estão instaladas corretamente.  
 3. Execute os testes a partir da classe principal ou via terminal com:  
- ```sh
+
+```sh
 mvn test
 
-## 📂 Estrutura do Projeto  
+## 📂 Estrutura do Projeto
+
+```sh
 .
 ├── src/
 │   ├── main/
