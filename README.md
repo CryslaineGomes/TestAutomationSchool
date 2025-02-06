@@ -25,6 +25,25 @@ Cada funcionalidade conta com testes para verificar:
 ✅ Fonte e cor dos botões  
 
 ## 🚀 Como Executar os Testes  
-1. Clone este repositório:  
+1. Abra o projeto no IntelliJ IDEA.  
+2. Certifique-se de que as dependências do Maven estão instaladas corretamente.  
+3. Execute os testes a partir da classe principal ou via terminal com:  
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   mvn test
+   
+## 📂 Estrutura do Projeto
+
+.
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── pages/                # Classes Page Object
+│   │   │   ├── elements/             # Elementos mapeados da página
+│   ├── test/
+│   │   ├── java/
+│   │   │   ├── steps/                # Definição dos passos do BDD
+│   │   ├── resources/
+│   │   │   ├── features/             # Arquivos .feature do Cucumber
+├── pom.xml                           # Configuração do Maven e dependências
+├── README.md                         # Documentação do projeto
+
