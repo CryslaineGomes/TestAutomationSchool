@@ -34,7 +34,7 @@ mvn test
 
 ## 📂 Estrutura do Projeto
 
-```sh
+```md
 .
 ├── src/
 │   ├── main/
