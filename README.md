@@ -1,4 +1,4 @@
-# Projeto de Automação - MJV School  
+# Projeto Final de Automação - MJV School  
 
 Este repositório contém a automação de testes realizada como parte do desafio final do curso de automação da MJV School. O projeto utiliza Selenium WebDriver, Page Factory e Cucumber para validar funcionalidades do site [PHP Travels](https://phptravels.com/demo).  
 
