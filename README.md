@@ -29,12 +29,9 @@ Cada funcionalidade conta com testes para verificar:
 2. Certifique-se de que as dependências do Maven estão instaladas corretamente.  
 3. Execute os testes a partir da classe principal ou via terminal com:  
  ```sh
- mvn test
+mvn test
 
-```md
 ## 📂 Estrutura do Projeto  
-
-```bash
 .
 ├── src/
 │   ├── main/
